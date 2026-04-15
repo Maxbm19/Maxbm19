@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Max</h1>
-<h3 align="center">A passionate Machine learning engineer from Bolivia</h3>
+<h3 align="center">A passionate Machine learning engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maxbm19&label=Profile%20views&color=0e75b6&style=flat" alt="maxbm19" /> </p>
 
